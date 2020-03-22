@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=myfirsthttptrigger;AccountKey=TlP3VwFpcgUKASxGPgmmZU0C/bk6DIVIBQvuZosBnJFRqp/ceC7peVELJRsfQJ/zU4KLphX9q85RHKYVYzw/dw==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
